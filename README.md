@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shuchi-seki
-- 👀 I’m interested in machine learning, AI
-- 🌱 I’m currently learning working in linux
+- 👀 I’m interested in mmWave radar signal processing, RF technology, machine learning.
+- 🌱 I’m currently learning working in sensing technology
 -
 
 <!---
